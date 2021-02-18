@@ -15,6 +15,7 @@ namespace ASP.NET_Calculator
             //txtVAT.Text = VAT.ToString();
         }
 
+        -
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
             int Price = int.Parse(txtPrice.Text);

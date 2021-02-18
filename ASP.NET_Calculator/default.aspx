@@ -12,6 +12,7 @@
         </div>
         <asp:Label ID="lblPrice" runat="server" Text="Price:"></asp:Label>
         &nbsp;
+        
         <asp:TextBox ID="txtPrice" runat="server"></asp:TextBox>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Label ID="lblVAT" runat="server" Text="VAT:"></asp:Label>
